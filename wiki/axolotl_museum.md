@@ -12,5 +12,5 @@ Axolotl Museum was PossiblyAxolotl's first released game. It was originally made
 |GameJolt|[https://gamejolt.com/games/axmuseum/612272](https://gamejolt.com/games/axmuseum/612272)|
 |Kartridge|No longer available[^2]|
 
-[^1]: https://en.wikipedia.org/wiki/Microsoft_PowerPoint
-[^2]: https://kong.zendesk.com/hc/en-us/articles/16394691968660-Sunsetting-Kartridge-Kartridge-com
+[^1]: [Microsoft Powerpoint - https://en.wikipedia.org/wiki/Microsoft_PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint)
+[^2]: [Sunsetting Kartridge - https://kong.zendesk.com/hc/en-us/articles/16394691968660-Sunsetting-Kartridge-Kartridge-com](https://kong.zendesk.com/hc/en-us/articles/16394691968660-Sunsetting-Kartridge-Kartridge-com)
