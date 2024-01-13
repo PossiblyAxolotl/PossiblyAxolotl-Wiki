@@ -49,7 +49,7 @@ Old games that never saw the light of day or are lower quality compared to Possi
 |August 22, 2021|HTML|[Island Attack](/island_attack)|garbag game I made for kenney jam in abt 2-3 hours|[itch.io](https://possiblyaxolotl.itch.io/island-attack)|
 |August 8, 2021|Android|[Headache](/headache)|I got a headache due to dehydration so I called the game headache :  )|[itch.io](https://possiblyaxolotl.itch.io/headache)|
 |July 14, 2021|PC, Mac, Linux|[a shameless ripoff of Allete](/allete)|a ripoff of my friend N8Dev's game called Allete|[itch.io](https://possiblyaxolotl.itch.io/allete-ripoff)|
-|June 18, 2021|PC, Mac, Linux, HTML|[Slimekoban](/slimekoban)|Sokoban... but slime!|[itch.io](https://possiblyaxolotl.itch.io/slimekoban)|
+|June 18, 2021|PC, Mac, Linux, HTML|[Slimekoban](/slimekoban)|Sokoban... but slime!|[itch.io](https://possiblyaxolotl.itch.io/slimekoban) [gamejolt](https://gamejolt.com/games/Slimekoban/625396)|
 |June 06, 2021|MacOS 9|[Stay Away](/stay_away)|a little game I made in a day for mac OS 9 in HyperCard||
 |May 13, 2021|PC, Mac, Linux|[C A T S](/cats)|An unfinished game for mini jam||
 |April 18, 2021|PC, Mac, Linux, HTML|[Bean Bounce](/bean_bounce)||[lexaloffle](https://www.lexaloffle.com/bbs/?tid=51384)|
@@ -62,7 +62,7 @@ Old games that never saw the light of day or are lower quality compared to Possi
 |February 07, 2021|PC, Mac, Linux, HTML|[Bean Boi's Adventure](/bean_boi_adventure)|A small game made in Pico-8||
 |January 30, 2021|PC|[Guitar Games](/guitar_games)|||
 |December 8, 2020|Android|[The Under Presents Fangame](/tup_fangame)|A fangame for The Under Presents[^tup] by Tenderclaws||
-|October 30, 2020|PC, Mac, HTML|[Axolotl Museum](/axolotl_museum)|A small game about the axolotl|[itch.io](https://possiblyaxolotl.itch.io/axolotl-museum)|
+|October 30, 2020|PC, Mac, HTML|[Axolotl Museum](/axolotl_museum)|A small game about the axolotl|[itch.io](https://possiblyaxolotl.itch.io/axolotl-museum) [gamejolt](https://gamejolt.com/games/axmuseum/612272)|
 |October 2020|PC, Mac, Linux|[Ball Maze](/ball_maze)|The most important game in PossiblyAxolotl's career.||
 |August 2020|Gameboy|[Ax's Great Axventure](/axventure)|PossiblyAxolotl's first game.||
 
