@@ -67,6 +67,6 @@ Old games that never saw the light of day or are lower quality compared to Possi
 |August 2020|Gameboy|[Ax's Great Axventure](/axventure)|PossiblyAxolotl's first game.||
 
 [Comment]: <> (References)
-[^playdate]: https://play.date/
-[^thumby]: https://https://thumby.us/
-[^tup]: https://tenderclaws.com/theunderpresents
+[^playdate]: [https://play.date/](https://play.date/)
+[^thumby]: [https://https://thumby.us/](https://https://thumby.us/)
+[^tup]: [https://tenderclaws.com/theunderpresents](https://tenderclaws.com/theunderpresents)
