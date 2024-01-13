@@ -16,6 +16,4 @@ Welcome to the PossiblyAxolotl community wiki. Here you can find information on 
 
 [Games](/games) | PossiblyAxolotl's games
 
-[Lore](/lore) | The lore of PossiblyAxolotl's videos
-
 [Other](/other) | PossiblyAxolotl's other projects
