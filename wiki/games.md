@@ -38,7 +38,7 @@ Old games that never saw the light of day or are lower quality compared to Possi
 |Creation Date|Platforms|Title|Description|Links|
 |-------------|---------|-----|-----------|-----|
 |April 30, 2023|Thumby[^thumby]|[DiscDungeon](/discdungeon)|A Thumby disc room ripoff.|[itch.io](https://possiblyaxolotl.itch.io/discdungeon)|
-|2020|Gameboy|[Axolotl Adventure](/axolotl_adventure)|PossiblyAxolotl's first game.|N/A|
+|2020|Gameboy|[Ax's Great Axventure](/axventure)|PossiblyAxolotl's first game.|N/A|
 
 [Comment]: <> (References)
 [^playdate]: https://play.date/
