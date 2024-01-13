@@ -4,30 +4,20 @@ These are all of the games made by PossiblyAxolotl.
 
 ## Upcoming
 
-<div style="width:100%; overflow-x:auto; overflow-y:none;">
-  
 |Title|Platforms|Links|
 |-----|---------|-----|
 |[Sporestory](/sporestory)|Playdate[^playdate]|[Website](https://www.possibyaxolotl.com/sporestory)|
 |[SUPER Rocket Bytes](/super_rocket_bytes)|Win, Mac, Linux|N/A|
-  
-</div>
 
 ## Full releases
 
-<div style="width:100%; overflow-x:auto; overflow-y:none;">
-  
 |Release Date|Platforms|Title|Description|Links|
 |------------|---------|-----|-----------|-----|
 |March 20, 2023|Win, Mac, Linux|[Rhythmole](/rhythmole)|A musical rhythm whack-a-mole game.|[Website](https://www.possiblyaxolotl.com/games/rhythmole) [itch.io](https://possiblyaxolotl.itch.io/rhythmole) [gamejolt](https://gamejolt.com/games/rhythmole/795162)|
 |July 23, 2022|Playdate[^playdate]|[Rocket Bytes](/rocket_bytes)|A precision rocket flying reverse platformer.|[itch.io](https://possiblyaxolotl.itch.io/rocketbytes)|
 
-</div>
-
 ## Jam games
 
-<div style="width:100%; overflow-x:auto; overflow-y:none;">
-  
 |Release Date|Platforms|Jam|Title|Description|Links|
 |------------|---------|---|-----|-----------|-----|
 |May 15, 2023|Playdate[^playdate]|PlayJam 3|[Lights Out](/lights_out)|N/A|[itch.io](https://possiblyaxolotl.itch.io/lights-out)|
@@ -41,19 +31,13 @@ These are all of the games made by PossiblyAxolotl.
 |February 20, 2021|Win, HTML|Godot Wild Jam #30|[HeartBeat](/heartbeat)|N/A|[itch.io](https://possiblyaxolotl.itch.io/heartbeat-godot-wild-jam)|
 |January 16, 2021|Win, Mac, Linux|Godot Wild Jam #29|[TRAYveler](/trayveler)|A short game about trying to find the perfect camping spot.|[itch.io](https://possiblyaxolotl.itch.io/trayveler)|
 
-</div>
-
 ## Old & small projects
 
 Old games that never saw the light of day or are lower quality compared to PossiblyAxolotl's newer ones.
 
-<div style="width:100%; overflow-x:auto; overflow-y:none;">
-  
 |Creation Date|Platforms|Title|Description|Links|
 |-------------|---------|-----|-----------|-----|
 |April 30, 2023|Thumby[^thumby]|[DiscDungeon](/discdungeon)|A Thumby disc room ripoff.|[itch.io](https://possiblyaxolotl.itch.io/discdungeon)|
-
-</div>
 
 [Comment]: <> (References)
 [^playdate]: https://play.date/
