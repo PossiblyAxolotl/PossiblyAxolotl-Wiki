@@ -1,6 +1,16 @@
 ## About
 
-**PossiblyAxolotl** is a Canadian game development and 3D animation YouTuber who has made several games, such as [Rocket Bytes](/rocketbytes) (which won the 2022 Playdate Community Awards: Best launch experience)[^1] and [Rhythmole](/rhythmole). They are currently working on a game called [Sporestory](/sporestory) (which is currently estimated to come out in a year) for the Playdate handheld console. PossiblyAxolotl has a [Discord server](https://discord.com/invite/zK4J8p4), which has less than 400 members, with their Discord bot called [Snailbot](/snailbot)[^2].
+> Hi, I'm me.
+
+**PossiblyAxolotl** is a Canadian game developer, 3D animator, and YouTuber. They are known for creating games with weird and unusual ideas such as a *rhythm whack-a-mole game played with a drum kit*[^rhythmole] and an award winning[^1] Playdate game, [Rocket Bytes](/rocket_bytes). They are currently working on [multiple games](/games#upcoming). PossiblyAxolotl has been developing games since late 2020 and making videos for their main channel since May, 2021[^2]. Their first video was created for a class project where they taught their grade 8 class how to make videos[^3]. Recently PossiblyAxolotl started doing 3D animation in their videos. Their first videp featuring 3D animation is ["I BUILT My Own Handheld Console..."](https://youtu.be/O01qyfwtr_g) and they are part of the [3D Gang](https://www.youtube.com/@ThreeDGang).
+
+## Info
+
+|What|Info|
+|----|----|
+|Pronouns|They/them|
+|Nationality|Canadian|
+|Birthday|May 26th|
 
 ## Channels
  
@@ -26,5 +36,7 @@
 |86+ videos, unscheduled|
 
 ## Refrences
+[^rhythmole]: [Rhythmole](/rhythmole)
 [^1]: [clips.twitch.tv](https://clips.twitch.tv/CloudyAmorphousVelociraptorSpicyBoy-xXgRexoE8wKUuAcJ) 
-[^2]: ["I Made My DREAM Discord Bot"](https://www.youtube.com/watch?v=SQKYR8Uu3M8)
+[^2]: [PossiblyAxolotl's first video - https://youtu.be/xCu3XhY-aHU](https://youtu.be/xCu3XhY-aHU)
+[^3]: I am PossiblyAxolotl
