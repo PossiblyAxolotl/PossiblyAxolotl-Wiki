@@ -42,7 +42,7 @@ Old games that never saw the light of day or are lower quality compared to Possi
 |March 29, 2021|PC, Mac, Linux|[TUNELL](/tunell)|Fast-paced free avoiding game.|[itch.io](https://possiblyaxolotl.itch.io/tunell)|
 |March 27, 2021|PC, Mac, Linux|[Tunnel](/tunnel)||[itch.io](https://possiblyaxolotl.itch.io/experiment-01-tunnel)|
 |March 4, 2021|PC, Mac, Linux|[ARKADE](/arkade)|A combination of many games.||
-|February 10, 2021|PC, Mac, Linux|[^^^^^^](/vvvvvv_first_person)|Terry Cavanagh's VVVVVV but first person.|[itch.io](https://possiblyaxolotl.itch.io/vvvvvv-but-first-person)|
+|February 10, 2021|PC, Mac, Linux|[VVVVVV But First Person](/vvvvvv_first_person)|Terry Cavanagh's VVVVVV but first person.|[itch.io](https://possiblyaxolotl.itch.io/vvvvvv-but-first-person)|
 |December 8, 2020|Android|[The Under Presents Fangame](/tup_fangame)|A fangame for The Under Presents[^tup] by Tenderclaws||
 |October 2020|PC, Mac, Linux|[Ball Maze](/ball_maze)|The most important game in my career.||
 |August 2020|Gameboy|[Ax's Great Axventure](/axventure)|PossiblyAxolotl's first game.||
