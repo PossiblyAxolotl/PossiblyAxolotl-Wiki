@@ -4,11 +4,8 @@
 
 If you'd like to contribute to the wiki here's the best way to.
 
-## Keep in mind
-Prose.io is a third party service used to edit markdown pages. Not everything is previewed accurately through this service but it makes creating and editing pages easier. You are not required to use it.
-
 ## Editing existing pages
-If you want to edit an existing page click the edit button next to the "prose.io" text. [Prose.io](https://prose.io) is a third party service that makes editing markdown extremely easy. If you'd prefer you can use the regular edit button but it's not recommended.
+If you want to edit an existing page click the `edit` button at the top of the page. This will open the GitHub repo to the file you will be editing. **Do not change the filename.** Once finished click the `Commit changes...` button and give a description of what you did.
 
 ## Creating new pages
-To create a new page, click the create button next to the "prose.io" text. As explained above, prose.io is a useful third party service that makes it easier to edit markdown. Make sure your file is in the wiki/ directory, as well as any appropriate subdirectories such as games/ or videos/ for example.
+To create a new page, click the `create` button at the top of the page. Please ensure your wiki page is inside the `wiki/` directory, as well as any appropriate subdirectories such as `wiki/games/jam_games`. Also make sure your filename ends with .md, and uses underscores rather than spaces such as `formatting_instructions.md`. Once finished click the `Commit changes...` button and give a description of what you did.
