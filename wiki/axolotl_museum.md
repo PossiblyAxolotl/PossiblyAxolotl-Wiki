@@ -8,8 +8,8 @@ Axolotl Museum was PossiblyAxolotl's first released game. It was originally made
 
 |Platform|Link|
 |--------|----|
-|Itch.io|https://possiblyaxolotl.itch.io/axolotl-museum|
-|GameJolt|https://gamejolt.com/games/axmuseum/612272|
+|Itch.io|[https://possiblyaxolotl.itch.io/axolotl-museum](https://possiblyaxolotl.itch.io/axolotl-museum)|
+|GameJolt|[https://gamejolt.com/games/axmuseum/612272](https://gamejolt.com/games/axmuseum/612272)|
 |Kartridge|No longer available[^2]|
 
 [^1]: https://en.wikipedia.org/wiki/Microsoft_PowerPoint
