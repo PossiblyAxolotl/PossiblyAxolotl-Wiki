@@ -8,7 +8,7 @@ Welcome to the PossiblyAxolotl community wiki. Here you can find information on 
 
 ## Pages
 
-Pages that do not fit into a specific category can go here.
+[Contributing instructions](/formatting_instructions)
 
 ## Categories
 
