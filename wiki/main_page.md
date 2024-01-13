@@ -8,6 +8,8 @@ Welcome to the PossiblyAxolotl community wiki. Here you can find information on 
 
 ## Pages
 
+[Youtube](/youtube) | Information on Axolotl and their youtube pages.
+
 [Instructions](/formatting_instructions) | Instructions for contributing / formatting pages
 
 ## Categories
