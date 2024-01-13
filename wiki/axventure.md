@@ -4,7 +4,12 @@ Ax's Great Axventure was going to be a quirky, fourth wall-breaking RPG for Game
 
 PossiblyAxolotl also later made attempts to turn the game 3D in a voxel style with Godot, but nothing much came of it.
 
+<sub>A 3D rendition of the first outside area</sub>
+
 ![vox](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/94b5885e-29eb-4c7d-bde9-c6bbe756e7e3)
+
+<sub>The original version of the first outside area</sub>
+
 ![outsidehouse](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/3f86e839-11db-4bc7-9c43-f021c830334b)
 
 ## Footage
