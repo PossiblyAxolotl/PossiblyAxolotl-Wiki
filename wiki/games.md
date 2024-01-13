@@ -37,14 +37,23 @@ Old games that never saw the light of day or are lower quality compared to Possi
 
 |Creation Date|Platforms|Title|Description|Links|
 |-------------|---------|-----|-----------|-----|
-|April 30, 2023|Thumby[^thumby]|[DiscDungeon](/discdungeon)|A Thumby disc room ripoff.|[itch.io](https://possiblyaxolotl.itch.io/discdungeon)|
+|April 30, 2023|Thumby[^thumby]|[DiscDungeon](/discdungeon)|A Thumby disc room ripoff|[itch.io](https://possiblyaxolotl.itch.io/discdungeon)|
+|February 27, 2022|PC, Mac, Linux|[Rocket Bits](/rocket_bits)|Can this crew of rockets get back to thier ship?|[itch.io](https://possiblyaxolotl.itch.io/rocketbits)|
 |October 23, 2021|PC, Mac, Linux|[Unnamed Halloween Game](/halloween_2021)||
-|March 29, 2021|PC, Mac, Linux|[TUNELL](/tunell)|Fast-paced free avoiding game.|[itch.io](https://possiblyaxolotl.itch.io/tunell)|
+|September 18, 2021|PC, Mac, Linux|[GloMan](/gloman)||[itch.io](https://possiblyaxolotl.itch.io/ldr)|
+|August 22, 2021|HTML|[Island Attack](/island_attack)|garbag game I made for kenney jam in abt 2-3 hours|[itch.io](https://possiblyaxolotl.itch.io/island-attack)|
+|August 8, 2021|Android|[Headache](/headache)|I got a headache due to dehydration so I called the game headache :  )|[itch.io](https://possiblyaxolotl.itch.io/headache)|
+|July 14, 2021|PC, Mac, Linux|[a shameless ripoff of Allete](/allete)|a ripoff of my friend N8Dev's game called Allete|[itch.io](https://possiblyaxolotl.itch.io/allete-ripoff)|
+|June 18, 2021|PC, Mac, Linux, HTML|[Slimekoban](/slimekoban)|Sokoban... but slime!|[itch.io](https://possiblyaxolotl.itch.io/slimekoban)|
+|May 13, 2021|PC, Mac, Linux|[C A T S](/cats)|An unfinished game for mini jam||
+|March 29, 2021|PC, Mac, Linux|[TUNELL](/tunell)|Fast-paced free avoiding game|[itch.io](https://possiblyaxolotl.itch.io/tunell)|
 |March 27, 2021|PC, Mac, Linux|[Tunnel](/tunnel)||[itch.io](https://possiblyaxolotl.itch.io/experiment-01-tunnel)|
 |March 4, 2021|PC, Mac, Linux|[ARKADE](/arkade)|A combination of many games.||
 |February 10, 2021|PC, Mac, Linux|[VVVVVV But First Person](/vvvvvv_first_person)|Terry Cavanagh's VVVVVV but first person.|[itch.io](https://possiblyaxolotl.itch.io/vvvvvv-but-first-person)|
+|January 30, 2021|PC|[Guitar Games](/guitar_games)|||
 |December 8, 2020|Android|[The Under Presents Fangame](/tup_fangame)|A fangame for The Under Presents[^tup] by Tenderclaws||
-|October 2020|PC, Mac, Linux|[Ball Maze](/ball_maze)|The most important game in my career.||
+|October 30, 2020|PC, Mac, HTML|[Axolotl Museum](/axolotl_museum)|A small game about the axolotl|[itch.io](https://possiblyaxolotl.itch.io/axolotl-museum)|
+|October 2020|PC, Mac, Linux|[Ball Maze](/ball_maze)|The most important game in PossiblyAxolotl's career.||
 |August 2020|Gameboy|[Ax's Great Axventure](/axventure)|PossiblyAxolotl's first game.||
 
 [Comment]: <> (References)
