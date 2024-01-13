@@ -1,7 +1,8 @@
+remote_theme: Drassil/git-wiki-theme@master
 # (string) Title of your wiki
-title: 
+title: PossiblyAxolotl Wiki
 # (string) Description of your wiki
-description: 
+description: The coolest wiki ever
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
