@@ -14,7 +14,14 @@ These are all of the games made by PossiblyAxolotl.
 |Release Date|Platforms|Title|Description|Links|
 |------------|---------|-----|-----------|-----|
 |March 20, 2023|PC, Mac, Linux|[Rhythmole](/rhythmole)|A musical rhythm whack-a-mole game.|[Website](https://www.possiblyaxolotl.com/games/rhythmole) [itch.io](https://possiblyaxolotl.itch.io/rhythmole) [gamejolt](https://gamejolt.com/games/rhythmole/795162)|
-|July 23, 2022|Playdate[^playdate]|[Rocket Bytes](/rocket_bytes)|A precision rocket flying reverse platformer.|[itch.io](https://possiblyaxolotl.itch.io/rocketbytes)|
+|July 23, 2022|Playdate[^playdate]|[Rocket Bytes](/rocket_bytes)|A precision rocket flying reverse platformer.|[Website](https://www.possiblyaxolotl.com/games/#rocketbytes) [itch.io](https://possiblyaxolotl.itch.io/rocketbytes)|
+
+## Smaller projects
+
+|Release Date|Platforms|Title|Description|Links|
+|-------------|---------|-----|-----------|-----|
+|April 30, 2023|Thumby[^thumby]|[DiscDungeon](/discdungeon)|A Thumby disc room ripoff|[itch.io](https://possiblyaxolotl.itch.io/discdungeon)|
+|February 27, 2022|PC, Mac, Linux|[Rocket Bits](/rocket_bits)|Can this crew of rockets get back to thier ship?|[itch.io](https://possiblyaxolotl.itch.io/rocketbits)|
 
 ## Jam games
 
@@ -31,25 +38,28 @@ These are all of the games made by PossiblyAxolotl.
 |February 20, 2021|PC, HTML|Godot Wild Jam #30|[HeartBeat](/heartbeat)||[itch.io](https://possiblyaxolotl.itch.io/heartbeat-godot-wild-jam)|
 |January 16, 2021|PC, Mac, Linux|Godot Wild Jam #29|[TRAYveler](/trayveler)|A short game about trying to find the perfect camping spot.|[itch.io](https://possiblyaxolotl.itch.io/trayveler)|
 
-## Old & small projects
+## Old projects
 
-Old games that never saw the light of day or are lower quality compared to PossiblyAxolotl's newer ones.
+Old games that never saw the light of day or are lower quality compared to PossiblyAxolotl's newer ones. (2021 & earlier)
 
 |Creation Date|Platforms|Title|Description|Links|
 |-------------|---------|-----|-----------|-----|
-|April 30, 2023|Thumby[^thumby]|[DiscDungeon](/discdungeon)|A Thumby disc room ripoff|[itch.io](https://possiblyaxolotl.itch.io/discdungeon)|
-|February 27, 2022|PC, Mac, Linux|[Rocket Bits](/rocket_bits)|Can this crew of rockets get back to thier ship?|[itch.io](https://possiblyaxolotl.itch.io/rocketbits)|
 |October 23, 2021|PC, Mac, Linux|[Unnamed Halloween Game](/halloween_2021)||
 |September 18, 2021|PC, Mac, Linux|[GloMan](/gloman)||[itch.io](https://possiblyaxolotl.itch.io/ldr)|
 |August 22, 2021|HTML|[Island Attack](/island_attack)|garbag game I made for kenney jam in abt 2-3 hours|[itch.io](https://possiblyaxolotl.itch.io/island-attack)|
 |August 8, 2021|Android|[Headache](/headache)|I got a headache due to dehydration so I called the game headache :  )|[itch.io](https://possiblyaxolotl.itch.io/headache)|
 |July 14, 2021|PC, Mac, Linux|[a shameless ripoff of Allete](/allete)|a ripoff of my friend N8Dev's game called Allete|[itch.io](https://possiblyaxolotl.itch.io/allete-ripoff)|
 |June 18, 2021|PC, Mac, Linux, HTML|[Slimekoban](/slimekoban)|Sokoban... but slime!|[itch.io](https://possiblyaxolotl.itch.io/slimekoban)|
+|June 06, 2021|MacOS 9|[Stay Away](/stay_away)|a little game I made in a day for mac OS 9 in HyperCard||
 |May 13, 2021|PC, Mac, Linux|[C A T S](/cats)|An unfinished game for mini jam||
+|April 18, 2021|PC, Mac, Linux, HTML|[Bean Bounce](/bean_bounce)||[lexaloffle](https://www.lexaloffle.com/bbs/?tid=51384)|
+|April 03, 2021|PC, Mac, Linux, HTML|[Esplode.](/esplode)|A small game about avoiding asteroids in space|[lexaloffle](https://www.lexaloffle.com/bbs/?tid=51383)|
 |March 29, 2021|PC, Mac, Linux|[TUNELL](/tunell)|Fast-paced free avoiding game|[itch.io](https://possiblyaxolotl.itch.io/tunell)|
 |March 27, 2021|PC, Mac, Linux|[Tunnel](/tunnel)||[itch.io](https://possiblyaxolotl.itch.io/experiment-01-tunnel)|
 |March 4, 2021|PC, Mac, Linux|[ARKADE](/arkade)|A combination of many games.||
 |February 10, 2021|PC, Mac, Linux|[VVVVVV But First Person](/vvvvvv_first_person)|Terry Cavanagh's VVVVVV but first person.|[itch.io](https://possiblyaxolotl.itch.io/vvvvvv-but-first-person)|
+|February 09, 2021|PC, Mac, Linux, HTML|[Bean Dreams Demake](/bean_dreams_demake)|a demake of the bst mobile platformer (bean dreams)||
+|February 07, 2021|PC, Mac, Linux, HTML|[Bean Boi's Adventure](/bean_boi_adventure)|A small game made in Pico-8||
 |January 30, 2021|PC|[Guitar Games](/guitar_games)|||
 |December 8, 2020|Android|[The Under Presents Fangame](/tup_fangame)|A fangame for The Under Presents[^tup] by Tenderclaws||
 |October 30, 2020|PC, Mac, HTML|[Axolotl Museum](/axolotl_museum)|A small game about the axolotl|[itch.io](https://possiblyaxolotl.itch.io/axolotl-museum)|
