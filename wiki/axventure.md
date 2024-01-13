@@ -14,8 +14,10 @@ PossiblyAxolotl also later made attempts to turn the game 3D in a voxel style wi
 
 ![outsidehouse](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/3f86e839-11db-4bc7-9c43-f021c830334b)
 
+<sub>The player spritesheet but with more added colour</sub>
+
+![clr2](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/eb7421d3-bb0b-41af-afe4-75d6626a97a5)
+
 ## Footage
 
-<sub>A recording of the entire game in it's final state. Click to open YouTube.</sub>
-
-[![Thumbnail](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/874763a9-f9dd-44e2-95bb-c6e6bf5c0006)](https://youtu.be/tfBxIFOeVNI)
+A recording of the game in its final, unfinished state can be seen [here](https://youtu.be/tfBxIFOeVNI). (YouTube link)
