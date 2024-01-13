@@ -4,12 +4,26 @@
 
 ## Channels
  
-|![PossiblyAxolotl_3D_pfp](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/108029829/03c6ae67-6d5b-4b94-9a35-7427b6fae510)|![Possiblyaxolotl2](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/108029829/a28bd01b-4845-4fe4-b1b9-9c38ab90fb1e)|![Probablyaxolotl](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/108029829/45e18719-e25a-4b65-9fbe-2a75268d812a)|
-|--------|--------|--------|
-|[youtube.com/@PossiblyAxolotl](https://www.youtube.com/@PossiblyAxolotl)|[youtube.com/@possiblyaxolotl2](https://www.youtube.com/@possiblyaxolotl2)|[youtube.com/@ProbablyAxolotl](https://www.youtube.com/@ProbablyAxolotl)|
-|Game development and 3D animation|Comedy / entertainment|Miscellaneous|
-|joined November 27, 2020|joined November 7, 2022|joined March 7, 2017|
-|24+ videos, unscheduled|2 videos, inactive|86+ videos, unscheduled|
+|![PossiblyAxolotl_3D_pfp](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/108029829/03c6ae67-6d5b-4b94-9a35-7427b6fae510)|
+|--------|
+|[youtube.com/@PossiblyAxolotl](https://www.youtube.com/@PossiblyAxolotl)|
+|Game development and 3D animation|
+|joined November 27, 2020|
+|24+ videos, unscheduled|
+
+|![Possiblyaxolotl2](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/108029829/a28bd01b-4845-4fe4-b1b9-9c38ab90fb1e)|
+|--------|
+|[youtube.com/@possiblyaxolotl2](https://www.youtube.com/@possiblyaxolotl2)|
+|Comedy / entertainment|
+|joined November 7, 2022|
+|2 videos, inactive||
+
+|![Probablyaxolotl](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/108029829/45e18719-e25a-4b65-9fbe-2a75268d812a)|
+|--------|
+|[youtube.com/@ProbablyAxolotl](https://www.youtube.com/@ProbablyAxolotl)|
+|Miscellaneous|
+|joined March 7, 2017|
+|86+ videos, unscheduled|
 
 ## Refrences
 [^1]: [clips.twitch.tv](https://clips.twitch.tv/CloudyAmorphousVelociraptorSpicyBoy-xXgRexoE8wKUuAcJ) 
