@@ -1,6 +1,6 @@
 ## About
 
-**PossiblyAxolotl** is a Canadian game development and 3D animation YouTuber who has made several games, such as [Rocket Bytes](https://possiblyaxolotl.itch.io/rocketbytes) (which won the 2022 Playdate Community Awards: Best launch experience)[^1] and [Rhythmole](https://possiblyaxolotl.itch.io/rhythmole). They are currently working on a game called [Sporestory](https://possiblyaxolotl.itch.io/sporestory) (which is currently estimated to come out in a year) for the Playdate handheld console. PossiblyAxolotl has a [Discord server](https://discord.com/invite/zK4J8p4), which has less than 400 members, with their Discord bot called Snailbot[^2].
+**PossiblyAxolotl** is a Canadian game development and 3D animation YouTuber who has made several games, such as [Rocket Bytes](/rocketbytes) (which won the 2022 Playdate Community Awards: Best launch experience)[^1] and [Rhythmole](/rhythmole). They are currently working on a game called [Sporestory](/sporestory) (which is currently estimated to come out in a year) for the Playdate handheld console. PossiblyAxolotl has a [Discord server](https://discord.com/invite/zK4J8p4), which has less than 400 members, with their Discord bot called [Snailbot](/snailbot)[^2].
 
 ## Channels
  
