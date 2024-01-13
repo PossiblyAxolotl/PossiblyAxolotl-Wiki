@@ -18,4 +18,4 @@ Also feel free to leave comments anywhere you feel necessary with `[comment]: <>
 ![image](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/9da04744-b4c8-4adf-a557-825d5758b737)
 
 [comment]: <> (citations and footer)
-[^1]: This is a test quotation. Pretty neat, huh?
+[^1]: This is a test reference. Pretty neat, huh?
