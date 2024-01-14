@@ -1,6 +1,6 @@
 # About
 
-> Hi, I'm me.
+> Hey, I'm me.
 
 **PossiblyAxolotl** is a Canadian game developer, 3D animator, and YouTuber. They are known for creating games with weird and unusual ideas and devlogs documenting them such as a *rhythm whack-a-mole game played with a drum kit*[^rhythmole] and an award winning[^1] Playdate game, [Rocket Bytes](/rocket_bytes). Their new videos will feature their avatar and channel mascot named "Ax", which is a 3D axolotl with a purple sweater, designed after their previous logo[^4].
 
@@ -47,6 +47,10 @@ They are currently working on [multiple games](/games#upcoming) and have develop
 > So I was playing a game the other day when I thought to myself, "man, I wish this sucked."
 
 - PossiblyAxolotl: [I BUILT My Own Handheld Console... ](https://www.youtube.com/watch?v=O01qyfwtr_g)
+
+> Hey, I'm me.
+
+- PossiblyAxolotl's channel bio
 
 ## Trivia
 
