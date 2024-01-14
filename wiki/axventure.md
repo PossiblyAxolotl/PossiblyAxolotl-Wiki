@@ -8,7 +8,7 @@ It was developed in the year 2020 as PossiblyAxolotl's first ever video game but
 
 PossiblyAxolotl also later made attempts to turn the game 3D in a voxel style with Godot, but nothing much came of it.
 
-## Images
+## Gallery
 
 <sub>A 3D rendition of the first outside area</sub>
 
