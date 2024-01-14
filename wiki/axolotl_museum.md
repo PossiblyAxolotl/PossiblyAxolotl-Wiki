@@ -6,7 +6,7 @@ Axolotl Museum is an RPG for Gameboy where you explore an axolotl museum and lea
 
 Axolotl Museum was PossiblyAxolotl's first released game. It was originally made for a grade 8 science class as opposed to making a PowerPoint[^1] presentation in [GB Studio](https://www.gbstudio.dev/). The player, as well as some other assets, are reused from [Ax's Great Axventure](/axventure), PossiblyAxolotl's first GB Studio project. It was released on October 30, 2020.
 
-## Images
+## Gallery
 
 <sub>The room where you are quizzed on information about axolotls</sub>
 
