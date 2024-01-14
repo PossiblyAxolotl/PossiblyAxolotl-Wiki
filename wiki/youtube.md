@@ -58,6 +58,8 @@ They are currently working on [multiple games](/games#upcoming) and have develop
 * While PossiblyAxolotl's new videos will feature 3D more prominently, some of their previous videos feature small 3D animated segments
 * PossiblyAxolotl hosts a bi-yearly game jam called PlayJam for making Playdate games
 
+## References
+
 [^rhythmole]: [Rhythmole](/rhythmole)
 [^1]: [clips.twitch.tv](https://clips.twitch.tv/CloudyAmorphousVelociraptorSpicyBoy-xXgRexoE8wKUuAcJ) 
 [^2]: [PossiblyAxolotl's first video - "Making a game in 3 DAYS"](https://youtu.be/xCu3XhY-aHU)
