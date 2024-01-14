@@ -1,6 +1,10 @@
 # Ax's Great Axventure
 
-Ax's Great Axventure was going to be a quirky, fourth wall-breaking RPG for Gameboy and home computers developen in [GB Studio](https://www.gbstudio.dev/). It was developed in the year 2020 as PossiblyAxolotl's first ever video game but never got far enough into development to release. Assets are reused in [Axolotl Museum](/axolotl_museum).
+Ax's Great Axventure was going to be a quirky, fourth wall-breaking RPG for Gameboy and home computers developen in [GB Studio](https://www.gbstudio.dev/). 
+
+## History
+
+It was developed in the year 2020 as PossiblyAxolotl's first ever video game but never got far enough into development to release. Assets are reused in [Axolotl Museum](/axolotl_museum).
 
 PossiblyAxolotl also later made attempts to turn the game 3D in a voxel style with Godot, but nothing much came of it.
 
