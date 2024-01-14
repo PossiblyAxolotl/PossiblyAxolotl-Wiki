@@ -66,7 +66,8 @@ Old games that never saw the light of day or are lower quality compared to Possi
 |October 2020|PC, Mac, Linux|[Ball Maze](/ball_maze)|The most important game in PossiblyAxolotl's career.||
 |August 2020|Gameboy|[Ax's Great Axventure](/axventure)|PossiblyAxolotl's first game.||
 
-[Comment]: <> (References)
+## References
+
 [^playdate]: [https://play.date/](https://play.date/)
 [^thumby]: [https://https://thumby.us/](https://https://thumby.us/)
 [^tup]: [https://tenderclaws.com/theunderpresents](https://tenderclaws.com/theunderpresents)
