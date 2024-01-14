@@ -8,6 +8,7 @@ These are all of the games made by PossiblyAxolotl.
 |-----|---------|-----|
 |[Sporestory](/sporestory)|Playdate[^playdate]|[Website](https://www.possibyaxolotl.com/sporestory)|
 |[SUPER Rocket Bytes](/super_rocket_bytes)|PC, Mac, Linux||
+|[Vision-versa](/vision_versa)]|PC, Mac, Linux||
 
 ## Full releases
 
