@@ -55,8 +55,8 @@ Old games that never saw the light of day or are lower quality compared to Possi
 |May 13, 2021|PC, Mac, Linux|[C A T S](/cats)|An unfinished game for mini jam||
 |April 18, 2021|PC, Mac, Linux, HTML|[Bean Bounce](/bean_bounce)||[lexaloffle](https://www.lexaloffle.com/bbs/?tid=51384)|
 |April 03, 2021|PC, Mac, Linux, HTML|[Esplode.](/esplode)|A small game about avoiding asteroids in space|[lexaloffle](https://www.lexaloffle.com/bbs/?tid=51383)|
-|March 29, 2021|PC, Mac, Linux|[TUNELL](/tunell)|Fast-paced free avoiding game|[itch.io](https://possiblyaxolotl.itch.io/tunell)|
-|March 27, 2021|PC, Mac, Linux|[Tunnel](/tunnel)||[itch.io](https://possiblyaxolotl.itch.io/experiment-01-tunnel)|
+|March 29, 2021|PC, Mac, Linux|[TUNELL](/tunnel_tunell)|Fast-paced free avoiding game|[itch.io](https://possiblyaxolotl.itch.io/tunell)|
+|March 27, 2021|PC, Mac, Linux|[Tunnel](/tunnel_tunell)||[itch.io](https://possiblyaxolotl.itch.io/experiment-01-tunnel)|
 |March 4, 2021|PC, Mac, Linux|[ARKADE](/arkade)|A combination of many games.||
 |February 10, 2021|PC, Mac, Linux|[VVVVVV But First Person](/vvvvvv_first_person)|Terry Cavanagh's VVVVVV but first person.|[itch.io](https://possiblyaxolotl.itch.io/vvvvvv-but-first-person)|
 |February 09, 2021|PC, Mac, Linux, HTML|[Bean Dreams Demake](/bean_dreams_demake)|a demake of the bst mobile platformer (bean dreams)||
