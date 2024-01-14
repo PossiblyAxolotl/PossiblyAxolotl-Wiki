@@ -2,7 +2,7 @@
 
 Bean Boi's Adventure was a simple platformer made following a Nerdy Teachers[^1] tutorial. There isn't much to it beyond being a simple PICO-8[^2] platformer.
 
-## Images
+## Gallery
 
 <sub>Gameplay of both levels</sub>
 
