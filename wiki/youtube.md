@@ -6,7 +6,7 @@
 
 ## YouTube history
 
-PossiblyAxolotl has been making YouTube videos since 2017 on their channel [@possiblyaxolotl2](https://www.youtube.com/@possiblyaxolotl2) which formerly went by names such as *Flyingcow567* and *Kiryllos the gaming shark*[^3]. They initially uploaded iPad gaming videos where they played games such as Geometry Dash and Ninja Tobu, but they later moved on to editing meme videos such as ["Discord sucks at singing Taking It Slow by Sean Spada"](https://youtu.be/3ZysA1pPlUk). Between then and beginning their game development channel they tried many other things such as 2D animation, but very few remnants remain. They created their main channel, PossiblyAxolotl, on Noveber 27, 2020 after being inspired by small game development channels line N8Dev and uploaded their first video to it on May 7, 2021.
+PossiblyAxolotl has been making YouTube videos since 2017 on their channel [@possiblyaxolotl2](https://www.youtube.com/@possiblyaxolotl2) which formerly went by names such as *Flyingcow567* and *Kiryllos the gaming shark*[^3]. They initially uploaded iPad gaming videos where they played games such as Geometry Dash and Ninja Tobu, but they later moved on to editing meme videos such as ["Discord sucks at singing Taking It Slow by Sean Spada"](https://youtu.be/3ZysA1pPlUk). Between then and beginning their game development channel they tried many other things such as 2D animation, but very few remnants remain[^pixbox]. They created their main channel, PossiblyAxolotl, on Noveber 27, 2020 after being inspired by small game development channels line N8Dev and uploaded their first video to it on May 7, 2021.
 
 Their channel saw an increase in subscribers from ~200 to ~2,000 in July, 2022 due to the sudden relevance of their Roblox vs Core comparison video[^5] which still remains their most popular non-short video[^6] and another increase from ~2,000 to ~8,000 when they uploaded a short in which they made a game in the time it took for their friend NathanOnline to return to the call[^7]. Recently PossiblyAxolotl started doing 3D animation in their videos. Their first video featuring 3D animation is ["I BUILT My Own Handheld Console..."](https://youtu.be/O01qyfwtr_g) and they are part of the [3D Gang](https://www.youtube.com/@ThreeDGang). They continue to make games and videos while improving their style to this day.
 
@@ -60,10 +60,11 @@ They are currently working on [multiple games](/games#upcoming) and have develop
 
 [^rhythmole]: [Rhythmole](/rhythmole)
 [^1]: [clips.twitch.tv](https://clips.twitch.tv/CloudyAmorphousVelociraptorSpicyBoy-xXgRexoE8wKUuAcJ) 
-[^2]: [PossiblyAxolotl's first video - https://youtu.be/xCu3XhY-aHU](https://youtu.be/xCu3XhY-aHU)
+[^2]: [PossiblyAxolotl's first video - "Making a game in 3 DAYS"](https://youtu.be/xCu3XhY-aHU)
 [^3]: I am PossiblyAxolotl
 [^4]: [PossiblyAxolotl's logo](/logo)
-[^5]: [https://www.youtube.com/watch?v=IqefwWieKnQ](https://www.youtube.com/watch?v=IqefwWieKnQ)
+[^5]: ["Game developer tries ROBLOX and CORE"](https://www.youtube.com/watch?v=IqefwWieKnQ)
+[^pixbox]: [PixelBox on YouTube](https://www.youtube.com/@pixelbox3375)
 [^6]: [PossiblyAxolotl on X](https://twitter.com/PossiblyAxolotl/status/1746319638366224789)
 [^7]: ["I made this game in 20 minutes..."](https://www.youtube.com/shorts/ofaEUU7JxT8)
 [^8]: [Games](/games)
