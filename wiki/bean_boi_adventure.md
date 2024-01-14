@@ -7,7 +7,6 @@ Bean Boi's Adventure was a simple platformer made following a Nerdy Teachers[^1]
 <sub>Gameplay of both levels</sub>
 
 ![bean_boi s_quest p8_0](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/245e206a-d5d1-48db-a353-f4eaa9b52104)
-
 ![bean_boi s_quest p8_1](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/43803907-2ab0-40c6-b316-ede6926d1461)
 
 <sub>All sprites in the game</sub>
