@@ -13,5 +13,5 @@
 
 ## References
 
-[^1]: http://kumobius.com/
-[^2]: https://www.lexaloffle.com/pico-8.php
+[^1]: [http://kumobius.com/](http://kumobius.com/)
+[^2]: [https://www.lexaloffle.com/pico-8.php](https://www.lexaloffle.com/pico-8.php)
