@@ -6,7 +6,7 @@ This was the first game PossiblyAxolotl made in Godot[^1]. It was developed for 
 
 The initial version was intended to be a Portal[^3]-inspired puzzle game where you would complete levels in linear puzzle chambers. This one was given the temporary title "You Can Trust Me" as it was intended to have a similar, dark story with a lot of mistrust between the player and voiceover.
 
-### Images
+### Gallery
 
 <sub>The core, some kind of power source</sub>
 
@@ -23,7 +23,7 @@ The initial version was intended to be a Portal[^3]-inspired puzzle game where y
 
 This version was planned to have a lighter story and take less inspiration from other games. It was not developed very far before it was ignored but the ball icon from this one remained part of PossiblyAxolotl's brand for a long time after[^2]. It also featured controller inputs.
 
-### Images
+### Gallery
 
 <sub>The only existing scene in the second version</sub>
 
