@@ -60,7 +60,6 @@ Old games that never saw the light of day or are lower quality compared to Possi
 |February 10, 2021|PC, Mac, Linux|[VVVVVV But First Person](/vvvvvv_first_person)|Terry Cavanagh's VVVVVV but first person.|[itch.io](https://possiblyaxolotl.itch.io/vvvvvv-but-first-person)|
 |February 09, 2021|PC, Mac, Linux, HTML|[Bean Dreams Demake](/bean_dreams_demake)|a demake of the bst mobile platformer (bean dreams)||
 |February 07, 2021|PC, Mac, Linux, HTML|[Bean Boi's Adventure](/bean_boi_adventure)|A small game made in Pico-8||
-|January 30, 2021|PC|[Guitar Games](/guitar_games)|||
 |December 8, 2020|Android|[The Under Presents Fangame](/tup_fangame)|A fangame for The Under Presents[^tup] by Tenderclaws||
 |October 30, 2020|PC, Mac, HTML|[Axolotl Museum](/axolotl_museum)|A small game about the axolotl|[itch.io](https://possiblyaxolotl.itch.io/axolotl-museum) [gamejolt](https://gamejolt.com/games/axmuseum/612272)|
 |October 2020|PC, Mac, Linux|[Ball Maze](/ball_maze)|The most important game in PossiblyAxolotl's career.||
