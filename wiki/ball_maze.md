@@ -33,6 +33,8 @@ This version was planned to have a lighter story and take less inspiration from 
 
 ![pfp_white](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/3b466685-6724-4f06-94a7-96a591b74ec5)
 
+## References
+
 [^1]: [https://www.godotengine.org/](https://www.godotengine.org/)
 [^2]: [PossiblyAxolotl's logo](/logo)
 [^3]: [Portal - https://en.wikipedia.org/wiki/Portal_(video_game)](https://en.wikipedia.org/wiki/Portal_(video_game))
