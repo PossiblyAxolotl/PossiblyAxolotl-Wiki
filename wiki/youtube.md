@@ -16,7 +16,7 @@ They are currently working on [multiple games](/games#upcoming) and have develop
 
 |What|Info|
 |----|----|
-|Pronouns|They/them|
+|Pronouns|they/them|
 |Nationality|Canadian|
 |Birthday|May 26th|
 
@@ -42,6 +42,17 @@ They are currently working on [multiple games](/games#upcoming) and have develop
 |Miscellaneous|
 |joined March 7, 2017|
 |86+ videos, unscheduled|
+
+## Quotes
+> So I was playing a game the other day when I thought to myself, "man, I wish this sucked."
+
+- PossiblyAxolotl: [I BUILT My Own Handheld Console... ](https://www.youtube.com/watch?v=O01qyfwtr_g)
+
+## Trivia
+
+* PossiblyAxolotl's first video was made for a class project where they taught their class how to edit videos
+* While PossiblyAxolotl's new videos will feature 3D more prominently, some of their previous videos feature small 3D animated segments
+* PossiblyAxolotl hosts a bi-yearly game jam called PlayJam for making Playdate games
 
 [^rhythmole]: [Rhythmole](/rhythmole)
 [^1]: [clips.twitch.tv](https://clips.twitch.tv/CloudyAmorphousVelociraptorSpicyBoy-xXgRexoE8wKUuAcJ) 
