@@ -11,5 +11,7 @@
 
 ![bean_gameplay](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/f960cad0-457e-461b-8e0c-38810fa23565)
 
+## References
+
 [^1]: http://kumobius.com/
 [^2]: https://www.lexaloffle.com/pico-8.php
