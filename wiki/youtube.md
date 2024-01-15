@@ -19,6 +19,7 @@ They are currently working on [multiple games](/games#upcoming) and have develop
 |Pronouns|they/them|
 |Nationality|Canadian|
 |Birthday|May 26th|
+|Wikitubia|[Link](https://youtube.fandom.com/wiki/PossiblyAxolotl)|
 
 ## Channels
  
