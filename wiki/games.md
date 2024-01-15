@@ -42,10 +42,11 @@ These are all of the games made by PossiblyAxolotl.
 
 ## Old projects
 
-Old games that never saw the light of day or are lower quality compared to PossiblyAxolotl's newer ones. (2021 & earlier)
+Old games that never saw the light of day or are lower quality compared to PossiblyAxolotl's newer ones. (mostly 2021 & earlier)
 
 |Creation Date|Platforms|Title|Description|Links|
 |-------------|---------|-----|-----------|-----|
+|July 16, 2022|PC, Mac, Linux|[Fuys For OBAMA](/fuys_for_obama)|It's a long story...|
 |October 23, 2021|PC, Mac, Linux|[Unnamed Halloween Game](/halloween_2021)||
 |September 18, 2021|PC, Mac, Linux|[GloMan](/gloman)||[itch.io](https://possiblyaxolotl.itch.io/ldr)|
 |August 8, 2021|Android|[Headache](/headache)|I got a headache due to dehydration so I called the game headache :  )|[itch.io](https://possiblyaxolotl.itch.io/headache)|
