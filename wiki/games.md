@@ -70,5 +70,5 @@ Old games that never saw the light of day or are lower quality compared to Possi
 ## References
 
 [^playdate]: [https://play.date/](https://play.date/)
-[^thumby]: [https://https://thumby.us/](https://https://thumby.us/)
+[^thumby]: [https://thumby.us/](https://thumby.us/)
 [^tup]: [https://tenderclaws.com/theunderpresents](https://tenderclaws.com/theunderpresents)
