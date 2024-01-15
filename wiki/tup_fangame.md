@@ -24,6 +24,10 @@ Different members of the community took on different roles (see the credits in t
 
 ![image](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/a6e115e2-53fa-4f6b-b6c3-c536a685ffab)
 
+<sub>UI elements drawn by Jamie</sub>
+
+![image](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/9259e3b5-6d0d-47a0-84b4-e455b30f4b46)
+
 ## References
 
 [^1]: [https://tenderclaws.com/theunderpresents](https://tenderclaws.com/theunderpresents)
