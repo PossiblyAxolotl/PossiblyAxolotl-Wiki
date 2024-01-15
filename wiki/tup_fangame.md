@@ -18,7 +18,7 @@ Different members of the community took on different roles (see the credits in t
 
 ![saltlogo_v2](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/ba567f18-5c28-468e-91f1-e3f6b2b83347)
 
-<sub>The only level that existed</sub>
+<sub>Test level with a background rendered by PossiblyAxolotl as a proof of concept</sub>
 
 ![image](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/76883695/e5fae05d-b98f-4511-b03d-31a411fe6115)
 
