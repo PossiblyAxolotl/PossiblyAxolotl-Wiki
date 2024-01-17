@@ -4,11 +4,11 @@ These are all of the games made by PossiblyAxolotl.
 
 ## Upcoming
 
-|Title|Platforms|Links|
-|-----|---------|-----|
-|[Sporestory](/sporestory)|Playdate[^playdate]|[Website](https://www.possibyaxolotl.com/sporestory)|
-|[SUPER Rocket Bytes](/super_rocket_bytes)|PC, Mac, Linux||
-|[Vision-versa](/vision_versa)|PC, Mac, Linux||
+|Title|Platforms|Description|Links|
+|-----|---------|-----------|-----|
+|[Sporestory](/sporestory)|Reunite a town of lost spores|Playdate[^playdate]|[Website](https://www.possibyaxolotl.com/sporestory)|
+|[SUPER Rocket Bytes](/super_rocket_bytes)|The final rocket based reverse platformer|PC, Mac, Linux||
+|[Vision-versa](/vision_versa)|A confusing co-op second person puzzle game|PC, Mac, Linux||
 
 ## Full releases
 
