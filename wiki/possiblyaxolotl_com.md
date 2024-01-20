@@ -12,3 +12,4 @@ There are a few different subdomains. Each can be accessed with x.possiblyaxolot
 |[test](https://test.possiblyaxolotl.com)|The beta test site. This site is used test anything, such as a new layout for the main page.|
 |[wiki](/)|The wiki. This site is used to document anything PossiblyAxolotl related.|
 |[cs20](https://cs20.possiblyaxolotl.com)|PossiblyAxolotl's final project for their CS20 high school class. Formerly cs20-final.|
+|[penis](https://penis.possiblyaxolotl.com)|PossiblyAxolotl's Editing 'N Ideation Services|
