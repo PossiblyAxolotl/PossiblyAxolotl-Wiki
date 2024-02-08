@@ -13,3 +13,4 @@ There are a few different subdomains. Each can be accessed with x.possiblyaxolot
 |[wiki](/)|The wiki. This site is used to document anything PossiblyAxolotl related.|
 |[cs20](https://cs20.possiblyaxolotl.com)|PossiblyAxolotl's final project for their CS20 high school class. Formerly cs20-final.|
 |[penis](https://penis.possiblyaxolotl.com)|PossiblyAxolotl's Editing 'N Ideation Services.|
+|[gamesilike](https://gamesilike.possiblyaxolotl.com)|Blog-type site for PossiblyAxolotl to review games they like.|
