@@ -6,4 +6,5 @@ Coming soon...
 
 |member|channel|
 |------|-------|
-|[PossiblyAxolotl](https://wiki.possiblyaxolotl.com/youtube)|[YouTube](https://www.youtube.com/@PossiblyAxolotl)|
+|[PossiblyAxolotl](/youtube)|[YouTube](https://www.youtube.com/@PossiblyAxolotl)|
+|[Pino Prime](/pino_prime)|[YouTube](https://www.youtube.com/@PinoPrime)|
