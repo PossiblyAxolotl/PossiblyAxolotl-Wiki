@@ -13,13 +13,14 @@ The 3D Gang is a group channel for YouTube 3D animators. Currently it primarily 
 
 ## Members
 
-Some members are featured publicly on the YouTube channel, however there are many more in the private Discord server. These are the members who are listed publicly.
+Some members are featured publicly on the YouTube channel, however there are many more in the private Discord server. These are the members who are listed publicly, or have asked to be listed.
 
 |member|channel|
 |------|-------|
 |[ArronIsRandom](/ayroron)|[YouTube](https://www.youtube.com/@ayroron)|
 |[BTM](/btm)|[YouTube](https://www.youtube.com/@BTMYYY)|
 |[DevZen](/devzen)|[YouTube](https://www.youtube.com/@DevZen0)|
+|[Expired rice](/expired_rice)|[YouTube](https://www.youtube.com/@Expired_rice)|
 |[Gabe Toons](/gabetoons)|[YouTube](https://www.youtube.com/@GabeToons)|
 |[honahearts](/honahearts)|[YouTube](https://www.youtube.com/@honahearts)|
 |[IrrationalMango](/irrationalmango)|[YouTube](https://www.youtube.com/@IrrationalMango)|
