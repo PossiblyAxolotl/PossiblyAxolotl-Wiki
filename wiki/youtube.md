@@ -24,26 +24,40 @@ They are currently working on [multiple games](/games#upcoming) and have develop
 
 ## Channels
  
-|![PossiblyAxolotl_3D_pfp](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/108029829/03c6ae67-6d5b-4b94-9a35-7427b6fae510)|
+|![PossiblyAxolotl_3D_pfp](https://yt3.googleusercontent.com/c-t5ZRWHtxhRDK1iLkD8qkOdjYUzuOb53YFwssqwBcwsAz-l5WxII24BTEdYH9v8O-AkIiWu5g=s176-c-k-c0x00ffffff-no-rj)|
 |--------|
 |[youtube.com/@PossiblyAxolotl](https://www.youtube.com/@PossiblyAxolotl)|
 |Game development and 3D animation|
 |joined November 27, 2020|
 |24+ videos, unscheduled|
 
-|![Possiblyaxolotl2](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/108029829/a28bd01b-4845-4fe4-b1b9-9c38ab90fb1e)|
+|![PossiblyClips](https://yt3.googleusercontent.com/Qc9HW1jOTstkmR72n3R3IVF0xSxh8UHwNlvIcVqOGQFHIozT5yY8AC7HmPGirpYz2LJ0GFTX=s176-c-k-c0x00ffffff-no-rj)|
+|--------|
+|[youtube.com/@PossiblyClips](https://www.youtube.com/@PossiblyClips)|
+|Clips from other channels|
+|joined January 28, 2024|
+|3+ videos, unscheduled|
+
+|![Possiblyaxolotl2](https://yt3.googleusercontent.com/3o9tYccuQJM9d2YuNyWLUhlD6fHmNLHV_p0CYDSJuYwSzFa25SOMMXwWnuJ6zZQyG8h4I4CuUyg=s176-c-k-c0x00ffffff-no-rj)|
 |--------|
 |[youtube.com/@possiblyaxolotl2](https://www.youtube.com/@possiblyaxolotl2)|
 |Comedy / entertainment|
 |joined November 7, 2022|
 |2 videos, inactive||
 
-|![Probablyaxolotl](https://github.com/PossiblyAxolotl/PossiblyAxolotl-Wiki/assets/108029829/45e18719-e25a-4b65-9fbe-2a75268d812a)|
+|![Probablyaxolotl](https://yt3.googleusercontent.com/SLuK0O2XR3-FhrN2efdc--41plEXqqGeUANno7Ik05jODVS4nIksyqgYpLVWTYbcrLDon9DJm5Q=s176-c-k-c0x00ffffff-no-rj)|
 |--------|
 |[youtube.com/@ProbablyAxolotl](https://www.youtube.com/@ProbablyAxolotl)|
 |Miscellaneous|
 |joined March 7, 2017|
 |86+ videos, unscheduled|
+
+|![PossiblyMusic](https://yt3.googleusercontent.com/puwHKr55X4o-spqrXrxe9SK7xHlgAnmZhr9AJARFjYVn6OF9CRE0ZYJ0DxPD4EzkEBVY6RNvzg=s176-c-k-c0x00ffffff-no-rj)|
+|--------|
+|[youtube.com/@PossiblyAxolotlMusic](https://www.youtube.com/@PossiblyAxolotlMusic)|
+|Music|
+|joined August 15, 2023|
+|20+ videos, unscheduled|
 
 ## Quotes
 > So I was playing a game the other day when I thought to myself, "man, I wish this sucked."
