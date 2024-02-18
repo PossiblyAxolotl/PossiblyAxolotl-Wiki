@@ -1,6 +1,6 @@
 # 3D Gang
 
-The 3D Gang is a group channel for YouTube 3D animators. Currently it primarily features disstracks on various people including members of the channel and game developer [AIA](/aia).
+The 3D Gang is a group channel for YouTube 3D animators. Currently it primarily features disstracks on various people including members of the channel and game developer [AIA](/aia). The 3D gang is known for [zarting](/zart), however, nobody knows what that really means.
 
 ## Channel
 
