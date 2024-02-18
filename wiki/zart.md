@@ -1,10 +1,10 @@
 # Zart
 
 ## Definition
-undefined
+Absolutely nobody knows what this word means or its implications.
 
 ## Origin
-i dunno
+I dunno
 
 ## Zart moments
 screenshots of discord zart
