@@ -32,4 +32,4 @@ Some members are featured publicly on the YouTube channel, however there are man
 |[TomIzDumb](/tomizdumb)|[YouTube](https://www.youtube.com/@TomIzDumb)|
 
 # References
-[^disc] https://discord.gg/rC3xYvyfap
+[^disc]: https://discord.gg/rC3xYvyfap
