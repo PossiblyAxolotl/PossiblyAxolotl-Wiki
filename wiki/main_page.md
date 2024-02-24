@@ -18,5 +18,5 @@ Welcome to the PossiblyAxolotl community wiki. Here you can find information on 
 |Name|Description|
 |----|-----------|
 |[Games](/games)|PossiblyAxolotl's games|
-|[Videos](/videos)|Lore, trivia, and other information about PossiblyAxolotl's videos|
+|[Lore](/lore)|Lore, trivia, and other information about the universe in PossiblyAxolotl's videos|
 |[Other](/other)|PossiblyAxolotl's other projects|
