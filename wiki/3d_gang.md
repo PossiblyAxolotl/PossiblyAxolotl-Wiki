@@ -2,6 +2,8 @@
 
 The 3D Gang is a group channel for YouTube 3D animators. Currently it primarily features disstracks on various people including members of the channel and game developer [AIA](/aia). The 3D gang is known for [zarting](/zart), however, nobody knows what that really means.
 
+Along with individual per-person Discord servers, the 3D Gang has a shared Discord server[^disc].
+
 ## Channel
 
 |![3D Gang pfp](https://yt3.googleusercontent.com/0ZQl7T6KjxRWa7KsRN7Q3wwmjKxovr4Ydxb8RHNhW1nlmHGYF5111HsqmwZtI262pzJSTf2xBw=s176-c-k-c0x00ffffff-no-rj)|
@@ -28,3 +30,6 @@ Some members are featured publicly on the YouTube channel, however there are man
 |[PixelzwithaZ](/pixelzwithaz)|[YouTube](https://www.youtube.com/@pixelzwithaz)|
 |[PossiblyAxolotl](/youtube)|[YouTube](https://www.youtube.com/@PossiblyAxolotl)|
 |[TomIzDumb](/tomizdumb)|[YouTube](https://www.youtube.com/@TomIzDumb)|
+
+# References
+[^disc] https://discord.gg/rC3xYvyfap
