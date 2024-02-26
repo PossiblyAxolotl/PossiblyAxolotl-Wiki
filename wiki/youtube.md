@@ -31,10 +31,10 @@ They are currently working on [multiple games](/games#upcoming) and have develop
 |joined November 27, 2020|
 |24+ videos, unscheduled|
 
-|![PossiblyClips](https://yt3.googleusercontent.com/Qc9HW1jOTstkmR72n3R3IVF0xSxh8UHwNlvIcVqOGQFHIozT5yY8AC7HmPGirpYz2LJ0GFTX=s176-c-k-c0x00ffffff-no-rj)|
+|![PossiblyVODs](https://yt3.googleusercontent.com/Qc9HW1jOTstkmR72n3R3IVF0xSxh8UHwNlvIcVqOGQFHIozT5yY8AC7HmPGirpYz2LJ0GFTX=s176-c-k-c0x00ffffff-no-rj)|
 |--------|
-|[youtube.com/@PossiblyClips](https://www.youtube.com/@PossiblyClips)|
-|Clips from other channels|
+|[youtube.com/@PossiblyVODs](https://www.youtube.com/@PossiblyVODs)|
+|Stream VODs|
 |joined January 28, 2024|
 |3+ videos, unscheduled|
 
